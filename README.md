@@ -18,7 +18,7 @@
 
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Samy572&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://streak-stats.demolab.com?user=Samy572&theme=dark&hide_border=true" />
 
-<img src="https://streak-stats.demolab.com?user=Samy572&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Samy572&theme=react-dark&hide_border=true" />
 
