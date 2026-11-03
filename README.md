@@ -23,8 +23,8 @@
 [![Codewars badge](https://www.codewars.com/users/Samy572/badges/micro)](https://www.codewars.com/users/Samy572)
 
 <picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Samy572&theme=dark&hide_border=true" />
-	<img src="https://streak-stats.demolab.com?user=Samy572&hide_border=true" alt="GitHub contribution streak for Samy572" />
+	<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Samy572&theme=dark&hide_border=true" />
+	<img src="https://streak-stats.demolab.com/?user=Samy572&hide_border=true" alt="GitHub contribution streak for Samy572" />
 </picture>
 
 ## 📫 Contact
